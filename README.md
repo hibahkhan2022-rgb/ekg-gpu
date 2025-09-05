@@ -7,7 +7,7 @@ This checklist keeps the project on track for the next 8 weeks.
 ---
 
 ## Week 1 — Scaffold + Data In
-- [ ] Create repo scaffold (done ✅).
+- [X] Create repo scaffold (done ✅).
 - [ ] `io.py`: download + load PhysioNet dataset, segment windows, train/val/test split.
 - [ ] `dsp_cpu.py`: bandpass FIR + moving average filter.
 - [ ] `01_explore_data.ipynb`: plot raw + filtered signals.
