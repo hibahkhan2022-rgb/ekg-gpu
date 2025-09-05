@@ -1,6 +1,6 @@
 # Realtime EKG Anomaly Detection
 
-# ✅ Project Roadmap — Realtime EKG Anomaly Detector (CUDA/MPS/ONNX)
+# Project Roadmap — Realtime EKG Anomaly Detector (CUDA/MPS/ONNX)
 
 This checklist keeps the project on track for the next 8 weeks.
 
